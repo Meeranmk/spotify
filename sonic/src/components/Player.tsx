@@ -59,14 +59,7 @@ const Player: React.FC = () => {
   return (
     <div className="p-4 glass-effect rounded-lg animate-fade-in">
       <div className="flex flex-col md:flex-row items-center">
-        <div className="flex items-center mb-4 md:mb-0 w-full md:w-auto">
-          <button 
-            onClick={() => setShowMobileMenu(true)}
-            className="md:hidden mr-4 p-2 rounded-full hover:bg-white/10 transition-colors"
-          >
-            <Menu size={20} className="text-white" />
-          </button>
-          
+        <div className="flex items-center mb-4 md:mb-0 w-full md:w-auto">       
           {currentTrack && (
             <>
               <div className="w-12 h-12 rounded-md overflow-hidden mr-3">
