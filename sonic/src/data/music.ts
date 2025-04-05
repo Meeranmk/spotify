@@ -20,7 +20,7 @@ export const musicData: Track[] = [
     title: "Starboy",
     artistName: "The Weeknd",
     thumbnail: "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
-    musicUrl: "https://audio-samples.github.io/samples/mp3/sample1.mp3",
+    musicUrl: "https://spotify-seven-silk.vercel.app/songs/Starboy.mp3",
     duration: "4:16",
     durationInSeconds: 256,
     colors: {
@@ -31,24 +31,24 @@ export const musicData: Track[] = [
   },
   {
     id: "2",
-    title: "Timeless",
-    artistName: "The Weeknd",
-    thumbnail: "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
-    musicUrl: "https://audio-samples.github.io/samples/mp3/sample2.mp3",
-    duration: "5:24",
+    title: "Demons",
+    artistName: "Imagine Dragons",
+    thumbnail: "https://spotify-seven-silk.vercel.app/album/main/dmons.png",
+    musicUrl: "https://spotify-seven-silk.vercel.app/songs/Demons.mp3",
+    duration: "4:10",
     durationInSeconds: 324,
     colors: {
       from: "rgb(41, 50, 60)",
-      via: "rgb(0, 0, 0)",
+      via: "rgb(100, 100, 120)",
       to: "rgb(0, 0, 0)"
     }
   },
   {
     id: "3",
-    title: "Take On Me",
-    artistName: "a-ha",
-    thumbnail: "https://i.scdn.co/image/ab67616d0000b2737f213369d5265a60af5f7e82",
-    musicUrl: "https://audio-samples.github.io/samples/mp3/sample3.mp3",
+    title: "Abyss",
+    artistName: "YUNGBLUD",
+    thumbnail: "https://spotify-seven-silk.vercel.app/album/main/abys.png",
+    musicUrl: "https://spotify-seven-silk.vercel.app/songs/abys.mp3",
     duration: "3:45",
     durationInSeconds: 225,
     colors: {
@@ -62,12 +62,12 @@ export const musicData: Track[] = [
     title: "Ghost Stories",
     artistName: "Coldplay",
     thumbnail: "https://i.scdn.co/image/ab67616d0000b2738ff7c3580d429c8212b9a3b6",
-    musicUrl: "https://audio-samples.github.io/samples/mp3/sample4.mp3",
+    musicUrl: "https://spotify-seven-silk.vercel.app/songs/Ghost.mp3",
     duration: "3:10",
     durationInSeconds: 190,
     colors: {
       from: "rgb(75, 110, 180)",
-      via: "rgb(0, 0, 0)",
+      via: "rgb(150, 200, 255)",
       to: "rgb(0, 0, 0)"
     }
   },
@@ -76,12 +76,12 @@ export const musicData: Track[] = [
     title: "Sparks",
     artistName: "Coldplay",
     thumbnail: "https://i.scdn.co/image/ab67616d0000b2738ff7c3580d429c8212b9a3b6",
-    musicUrl: "https://audio-samples.github.io/samples/mp3/sample5.mp3",
+    musicUrl: "https://spotify-seven-silk.vercel.app/songs/Sparks.mp3",
     duration: "4:23",
     durationInSeconds: 263,
     colors: {
       from: "rgb(235, 175, 75)",
-      via: "rgb(0, 0, 0)",
+      via: "rgb(255, 200, 100)",
       to: "rgb(0, 0, 0)"
     }
   },
@@ -89,9 +89,9 @@ export const musicData: Track[] = [
     id: "6",
     title: "Viva La Vida",
     artistName: "Coldplay",
-    thumbnail: "/lovable-uploads/73033eb1-1a89-41a2-8ace-10ef01bca36e.png",
-    musicUrl: "https://audio-samples.github.io/samples/mp3/sample2.mp3",
-    duration: "5:32",
+    thumbnail: "https://spotify-seven-silk.vercel.app/album/main/Vivad.png",
+    musicUrl: "https://spotify-seven-silk.vercel.app/songs/vivad.mp3",
+    duration: "4:10",
     durationInSeconds: 332,
     colors: {
       from: "rgb(198, 135, 70)",
@@ -101,11 +101,11 @@ export const musicData: Track[] = [
   },
   {
     id: "7",
-    title: "Cry For Me",
-    artistName: "The Weeknd",
-    thumbnail: "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
-    musicUrl: "https://audio-samples.github.io/samples/mp3/sample3.mp3",
-    duration: "2:23",
+    title: "Hymn for the Weekend",
+    artistName: "Coldplay",
+    thumbnail: "https://spotify-seven-silk.vercel.app/album/main/hymn.png",
+    musicUrl: "https://spotify-seven-silk.vercel.app/songs/hymn.mp3",
+    duration: "4:23",
     durationInSeconds: 143,
     colors: {
       from: "rgb(42, 45, 60)",
@@ -118,7 +118,7 @@ export const musicData: Track[] = [
     title: "Pain",
     artistName: "Ryan Jones",
     thumbnail: "https://i.scdn.co/image/ab67616d0000b27384350b406522fc53c1b2a621",
-    musicUrl: "https://audio-samples.github.io/samples/mp3/sample1.mp3",
+    musicUrl: "https://spotify-seven-silk.vercel.app/songs/pain.mp3",
     duration: "3:12",
     durationInSeconds: 192,
     colors: {

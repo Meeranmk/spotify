@@ -13,10 +13,9 @@ const Sidebar: React.FC = () => {
   return (
     <div className="bg-sidebar-background h-full p-4 flex flex-col animate-fade-in">
       <div className="flex items-center mb-8 ml-2">
-        <div className="w-10 h-10 rounded-full bg-white flex items-center justify-center">
-          <div className="w-3 h-3 bg-black rounded-full"></div>
+        <div className="">	
+          <img width="130" height="40" className="logo" alt="spotify logo" src="https://spotify-seven-silk.vercel.app/assets/Logo-r4I3k8ZP.svg"/>
         </div>
-        <h1 className="text-xl font-bold ml-3 text-white">Spotify</h1>
       </div>
       
       <nav className="flex-1">
