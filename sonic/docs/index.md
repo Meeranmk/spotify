@@ -1,0 +1,1 @@
+Generative AI (Gen AI) refers to artificial intelligence systems that can create new content, such as text, images, audio, or code, based on patterns learned from training data. Examples include large language models like me, Grok, created by xAI, which generate human-like text, or image models like DALL·E that produce visuals from prompts.
