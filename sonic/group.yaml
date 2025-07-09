@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: Gen-AI
+  name: GEN-AI
   description: The infra business unit
 spec:
   type: team
   profile:
-    displayName: Team-Ai
+    displayName: Team-AI
     email: gen-ai@prodapt.com
     picture: https://example.com/groups/genai.jpeg
   parent: ops
