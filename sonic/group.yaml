@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: GEN-AI
+  description: The infra business unit
+spec:
+  type: team
+  profile:
+    displayName: Team-Ai
+    email: gen-ai@prodapt.com
+    picture: https://example.com/groups/genai.jpeg
+  parent: ops
+  children: [backstage, other]
+  members: [joe]
